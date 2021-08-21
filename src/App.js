@@ -1,6 +1,7 @@
 import { Route, Switch } from "react-router-dom";
 import Pokemon from "./components/Pokemon";
 import Pokedex from "./components/Pokedex";
+
 function App() {
   return (
     <Switch>
